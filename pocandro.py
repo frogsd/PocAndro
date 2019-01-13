@@ -43,8 +43,8 @@ def logo():
  print "\t AIRDROID UPLOAD AUTH BYPASS PoC <<<<telegram>>>>____@ World_blackhat"
 if len(sys.argv)<6 or len(sys.argv)>6 :
  logo()
- print "\tUSAGE:python andropoc.py ip port remote-file-name local-file-name remote-file-path"
- print "\tEXAMPLE:python andropoc.py 192.168.1.2 5555 poc poc.txt /sdcard"
+ print "\tUSAGE:python pocandro.py ip port remote-file-name local-file-name remote-file-path"
+ print "\tEXAMPLE:python pocandro.py 192.168.1.2 5555 poc poc.txt /sdcard"
 else :
  logo()
  print "\n[+]Reciving Details\n-----------------------------"

@@ -40,7 +40,7 @@ mengetik('&_<︻╦̵̵͇̿̿̿̿ vist our site ╤───.......┣▇ https:
 
 def logo():
  
- print "\t AIRDROID UPLOAD AUTH BYPASS PoC <<<<telegram>>>>____@ World_blackhat"
+ print "\t AIRDROID UPLOAD AUTH BYPASS PoC <<<<telegram content >>>>____@ frogsec"
 if len(sys.argv)<6 or len(sys.argv)>6 :
  logo()
  print "\tUSAGE:python pocandro.py ip port remote-file-name local-file-name remote-file-path"
